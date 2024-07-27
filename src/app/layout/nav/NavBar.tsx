@@ -10,7 +10,7 @@ export default function NavBar() {
         </MenuItem>
         <MenuItem name='Events' />
         <MenuItem>
-          <Button floated='right' positive={true} inverted={true} content='Create event'/>
+          <Button floated='right' color='orange'  content='Create event'/>
         </MenuItem>
         <MenuItem position='right'>
           <Button basic inverted content='Login' />
