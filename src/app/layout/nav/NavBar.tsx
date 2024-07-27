@@ -5,7 +5,7 @@ export default function NavBar() {
     <Menu inverted={true} fixed='top'>
       <Container>
         <MenuItem header>
-          <img src="../../../assets/logo.png" alt="logo" />
+          <img src="/logo.png" alt="logo" />
           What's On
         </MenuItem>
         <MenuItem name='Events' />
