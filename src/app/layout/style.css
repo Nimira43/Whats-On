@@ -2,7 +2,8 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #f3e9b0;
+  background-color: #f7f0cc;
+  color: #333;
 }
 
 .masthead {
@@ -96,7 +97,7 @@ body {
   bottom: 0;
   width: 100%;
   margin-bottom: 0;
-  background-color: #f3e9b0;
+  background-color: #f7f0cc;
 }
 
 .ui.footer.segment .ui.divider {
@@ -120,7 +121,7 @@ body {
   left: 5%;
   width: 100%;
   height: auto;
-  color: #f3e9b0;
+  color: #f7f0cc;
 }
 
 .ui.inverted.attached.segment {
